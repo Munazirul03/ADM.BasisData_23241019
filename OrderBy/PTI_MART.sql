@@ -1,5 +1,5 @@
--- Nama: Andrian Maulana
--- Nim: 23241020
+-- Nama: Munazirul Akbar
+-- Nim: 23241019
 -- Kelas: A/4
 -- Modul: Modul 1 - SELECT Statement, Prefic dan Alias
 
