@@ -1,5 +1,5 @@
--- nama : Lalu Andra Khairil Ramadhan
--- nim : 23241009
+-- nama : Munazirul Akbar
+-- nim : 23241019
 -- kelas : A 
 
 --- melihat data bases
