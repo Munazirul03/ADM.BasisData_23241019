@@ -1,5 +1,5 @@
--- Nama : Andrian Maulana
--- Nim : 23241020
+-- Nama : Munazirul Akbar
+-- Nim : 23241019
 -- Kelas : A 
 
 -- melihat database dalam MySQL
